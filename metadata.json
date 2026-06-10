@@ -1,0 +1,6 @@
+{
+  "name": "InterpretNN",
+  "description": "An interactive interpretability dashboard analyzing CNN, DQN, and Decision Transformer models on Atari Breakout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
